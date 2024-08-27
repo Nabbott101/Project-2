@@ -1,0 +1,12 @@
+1. As a user, I want to perform the following
+-Type in text
+-click submit
+-view pictures of search
+
+2. As a user, I want to be able to:
+-search for images from text typed in search bar
+-see a list of images with descriptions
+
+3. As a user, I want to see the search results in a visually appealing manner. I want to perform the following:
+  -display images in a grid format
+  -show top 25 images
